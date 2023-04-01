@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/flipkartclone/static/css/main.b937d2ac.chunk.css",
+    "main.js": "/flipkartclone/static/js/main.1d56b964.chunk.js",
+    "main.js.map": "/flipkartclone/static/js/main.1d56b964.chunk.js.map",
+    "runtime-main.js": "/flipkartclone/static/js/runtime-main.e8bb728d.js",
+    "runtime-main.js.map": "/flipkartclone/static/js/runtime-main.e8bb728d.js.map",
+    "static/js/2.7c0ad1b6.chunk.js": "/flipkartclone/static/js/2.7c0ad1b6.chunk.js",
+    "static/js/2.7c0ad1b6.chunk.js.map": "/flipkartclone/static/js/2.7c0ad1b6.chunk.js.map",
+    "static/js/3.bef99cfc.chunk.js": "/flipkartclone/static/js/3.bef99cfc.chunk.js",
+    "static/js/3.bef99cfc.chunk.js.map": "/flipkartclone/static/js/3.bef99cfc.chunk.js.map",
+    "index.html": "/flipkartclone/index.html",
+    "static/css/main.b937d2ac.chunk.css.map": "/flipkartclone/static/css/main.b937d2ac.chunk.css.map",
+    "static/js/2.7c0ad1b6.chunk.js.LICENSE.txt": "/flipkartclone/static/js/2.7c0ad1b6.chunk.js.LICENSE.txt",
+    "static/media/carousel2.fb5ff6f6.jpg": "/flipkartclone/static/media/carousel2.fb5ff6f6.jpg",
+    "static/media/led.14347b07.jfif": "/flipkartclone/static/media/led.14347b07.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8bb728d.js",
+    "static/js/2.7c0ad1b6.chunk.js",
+    "static/css/main.b937d2ac.chunk.css",
+    "static/js/main.1d56b964.chunk.js"
+  ]
+}
